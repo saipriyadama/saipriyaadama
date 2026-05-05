@@ -8,17 +8,12 @@ I build production ML models, LLM-powered applications, and multi-agent AI syste
 
 ---
 
-### 🔭 What I'm working on
+### 🚀 Featured projects
 
 - **FlightSage** — AI Travel Strategist with multi-agent architecture (Claude Opus 4.7, MCP, ChromaDB, RAG)
 - **JobReach AI** — Fine-tuned LLaMA 3.1-8B for personalized job outreach (LoRA, FastAPI)
-- **Multi-Agent AI Systems** — Exploring agentic workflows with LangGraph, AutoGen, and Claude API
-
-### 🌱 Currently learning
-
-- Advanced LLM fine-tuning techniques (DPO, RLHF)
-- Production deployment patterns for agentic AI
-- AWS Cloud Practitioner & Claude Certified Architect certifications
+- **Elderly Voice** — Serverless AWS platform improving medication adherence by 40% (Lambda, Connect, Polly)
+- **Safety Mapper** — Real-time geospatial analytics processing 500+ daily incidents (Flask, Google Maps APIs)
 
 ### 💼 Where I've worked
 
@@ -53,7 +48,6 @@ I build production ML models, LLM-powered applications, and multi-agent AI syste
 ### 📫 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-priya-a-60093b1b4)
-[![Portfolio](https://img.shields.io/badge/Portfolio-c2410c?style=for-the-badge&logo=safari&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saipriyaadama@gmail.com)
 
 ---
