@@ -29,7 +29,7 @@ Currently a **Data Scientist** at **NextEra Energy**, building production-grade 
 
 **Data Scientist** @ Microsoft | August 2021 – December 2022
 
-**Data Scientist** @ Amazon | March 2020 – July 2021
+**Data Scientist** @ Flipkart | March 2020 – July 2021
 
 ---
 
